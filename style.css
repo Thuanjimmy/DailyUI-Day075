@@ -1,0 +1,22 @@
+body {
+  margin: 2% 8%;
+}
+.white {
+  color: white;
+}
+h1 {
+  font-size: 4rem;
+  text-transform: uppercase;
+  font-weight: bolder;
+  width: 500px;
+}
+.shoes {
+  width: 84%;
+  opacity: 0.4;
+  position: absolute;
+}
+.print {
+  position: relative;
+  top: 50px;
+  left: 50px;
+}
